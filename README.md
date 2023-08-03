@@ -1,0 +1,2 @@
+# asp-localization-example
+IStringlocalizter
